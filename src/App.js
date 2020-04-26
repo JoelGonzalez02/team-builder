@@ -9,7 +9,7 @@ const [team, setTeam] = useState([
     {
       id: 0,
       name: 'Lebron James',
-      email: 'theking23@gmail.com',
+      email: 'theKing23@gmail.com',
       role: 'Point Guard/Small Forward',
     },
     {
